@@ -1,2 +1,2 @@
 # blog
-blog posting website
+blog posting website software
